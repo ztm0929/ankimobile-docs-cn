@@ -1,20 +1,16 @@
-# Introduction
+# 介绍
 
-Thank you for buying AnkiMobile! Anki development would not be able to
-continue without your support, so it is greatly appreciated.
+感谢你购买 AnkiMobile！非常感谢你的支持与帮助，这可以促进开发组持续优化 Anki 。
 
-Some basic concepts covered in the [computer manual](https://docs.ankiweb.net) are not repeated
-here, so please check it out if you have not already done so.
+一些基础的概念已经在[电脑版手册](https://docs.ankiweb.net)提及，如果有不清楚的概念请前往查阅，不在本手册赘述。
 
-## Legal
+## 法律声明
 
-**Privacy**
+**隐私政策**
 
-No data you store in AnkiMobile is shared with us or other Anki users by
-default. If you use the optional synchronization feature, please see
-[AnkiWeb’s privacy policy](https://ankiweb.net/account/privacy).
+ 默认情况下你在 AnkiMobile 产生的数据不会共享给 Anki 或其他 Anki 用户。如果你使用了可选的同步功能，请查阅[AnkiWeb的隐私政策](https://ankiweb.net/account/privacy)。
 
-**Trademarks**
+**商标**
 
 Apple, the Apple logo, iPhone, iPad and iPod Touch are trademarks of
 Apple Inc., registered in the U.S. and other countries. App Store is a

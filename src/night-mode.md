@@ -1,10 +1,8 @@
-# Night Mode Styling
+# 夜间模式样式
 
-By using the Edit Card Template action, it is possible to customize how
-cards appear when night mode/dark mode is enabled.
+通过编辑卡片模板的操作，可以自定义当夜间模式/深色模式启用时卡片呈现的样子。
 
-If you wanted a grey background instead of black, you could use
-something like:
+如果你想要一个灰色的背景而不是黑色，可以使用类似如下的代码：
 
 ```css
 .card.nightMode {
@@ -12,8 +10,7 @@ something like:
 }
 ```
 
-If you have a 'myclass' style, the following would show the text in
-yellow when night mode is enabled:
+如果你有一个 `myclass` 样式类，通过以下示例代码可以在启用夜间模式时将文本显示为黄色：
 
 ```css
 .nightMode .myclass {

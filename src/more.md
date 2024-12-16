@@ -1,29 +1,19 @@
-# More Features
+# 更多功能
 
 ## Javascript
 
-The [warnings](https://docs.ankiweb.net/templates/styling.html#javascript)
-that apply to the computer version also apply to AnkiMobile.
+关于电脑版的[警告](https://docs.ankiweb.net/templates/styling.html#javascript)同样适用于 AnkiMobile 。
 
-In addition to the above, another thing to be aware of in AnkiMobile is
-that your code also needs to play nicely with AnkiMobile’s tap
-detection. Taps on A/BUTTON elements, or elements that have an onclick
-handler should work as you expect.
+除了上述之外，AnkiMobile 中另外一件需要注意的事情是，你的代码还需要与 AnkiMobile 的 Tap 很好地配合检测。点击 A/BUTTON 元素或具有 onclick 的元素处理程序应该按预期工作。
 
-If you have other elements that must receive tap events, give them the
-class 'tappable' to tell AnkiMobile 2.0.39 or later that it should pass
-taps through to the element.
+如果你有其他元素必须接收点击事件，请给它们 `tappable` 的类来告诉 AnkiMobile 2.0.39或更高的版本应该将按下的动作传递给它们。
 
-## Play Buttons
+## 播放按钮
 
-To change the styling of the audio replay buttons, please see
+如果需要修改音频重放按钮的样式，请查阅
 <https://docs.ankiweb.net/templates/styling.html#audio-replay-buttons>
 
-## Image Resizing
+## 图像尺寸调整
 
-When you attach an image from the photo gallery it is automatically
-resized to have a maximum length of 1024 along its longest edge. 
-
-Recent Anki versions allow you to customize this limit in the **Preferences >
-General** screen, and control whether the limit should also be applied to
-images pasted from the clipboard.
+当你从相册添加一张图片作为附件时，AnkiMobile 会自动等比例缩放，将它的较长边最大值调整到1024。
+当前的 Anki 版本允许你自定义限制，以决定是否将此限制应用到粘贴板里的图片。**（偏好设置 > 通用）**
